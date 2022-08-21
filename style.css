@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+h3 {
+  text-align: center;
+}
+.calc {
+  border-radius: 10px;
+  width: 200px;
+  text-align: center;
+  padding: 8px;
+  margin: auto;
+}
+table{
+  background-color: #571D4E;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+
+}
+thead tr td{
+  background-color: #E38AE4;
+  border-radius: 8px;
+  color: #ffffff;
+  border: none;
+  height: 100px;
+
+
+}
+
+tbody tr td{
+  background-color: #63325E;
+  border-radius: 8px;
+  border: none;
+  color: #ffffff;
+  width: 55px;
+  height: 55px;
+  
+}
+/* style for colored elements */
+.top {
+  color: #db3772;
+}
+.side {
+  color: #000000;
+}
+
+
